@@ -3,8 +3,9 @@ A GUI for making custom adjustments to your Waybar.
 
 🧩 Waybar Configurator – Modern GTK4 GUI for Waybar
 
-Waybar Configurator is a graphical editor built with GTK4 and libadwaita, designed to make customizing your Waybar
- configuration simple, visual, and safe — no manual JSON or CSS editing required.
+As a Linux user for decades, i always try to come back to Linux for testing, developing and getting the best out of my hardware, so in this case, I was having too much time wasted on Hyprland to set custom themes out (wich i know it's kinda the purpose of having arch+hyprland) but Linus Torvalds Said once, "I wanted to be easy to install so that i can just get on with my life", so here we are, i hope you find this tool useful, it's unfinished because I want to add more functions and has some errors but you will find it easy to understand.
+
+Waybar Configurator is a graphical editor built with GTK4 and libadwaita, designed to make customizing your Waybar configuration simple, visual, and safe — no manual JSON or CSS editing required.
 
 This standalone tool reads your existing Waybar configuration (~/.config/waybar/config.jsonc and style.css), automatically detects all modules, and provides a modern GUI to tweak layout, colors, opacity, and styling — with live preview and restore features.
 
@@ -59,7 +60,3 @@ Any change is safely written back to ~/.config/waybar/.
 
  CLI launch options (--reset, --theme dark)
 
-🧑‍💻 Author
-
-Developed by Iván Ledesma
-Project maintained under MDSoft – Modular Software Systems.
