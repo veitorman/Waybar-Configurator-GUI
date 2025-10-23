@@ -40,9 +40,9 @@ json5 for flexible JSONC parsing
 Arch-compatible (works on any Linux with GTK4 support)
 
 🚀 Usage
-git clone https://github.com/yourname/waybar-configurator
-cd waybar-configurator
-python3 waybar_configurator.py
+$ git clone https://github.com/yourname/waybar-configurator
+$ cd waybar-configurator
+$ python3 waybar_configurator.py
 
 
 💡 The app automatically backs up your Waybar config and CSS on first launch (.backup files).
