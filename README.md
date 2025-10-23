@@ -40,6 +40,7 @@ json5 for flexible JSONC parsing
 Arch-compatible (works on any Linux with GTK4 support)
 
 🚀 Usage
+
 $ git clone https://github.com/yourname/waybar-configurator
 
 $ cd waybar-configurator
