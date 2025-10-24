@@ -9,7 +9,7 @@ Waybar Configurator is a graphical editor built with GTK4 and libadwaita, design
 
 This standalone tool reads your existing Waybar configuration (~/.config/waybar/config.jsonc and style.css), automatically detects all modules, and provides a modern GUI to tweak layout, colors, opacity, and styling — with live preview and restore features.
 
-<img src="url" alt="Preview Functions">
+<img src="https://github.com/veitorman/Waybar-Configurator-GUI/blob/main/demo2.gif" alt="Preview Functions">
 
 ✨ Key Features
 
