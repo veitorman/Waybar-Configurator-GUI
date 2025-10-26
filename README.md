@@ -118,6 +118,11 @@ Any change is safely written back to ~/.config/waybar/.
 
 -load custom themes that you made without having to export them, just click and load them.
 
+---
+#kNOWN ISSUES (listed by the community)
+-it doesn't add the " " in some tags
+-sliders don't do anything
+
 
 So i hope this is usefull, im willing to make more of this for hyprland - arch - wayland users because i really like it and i kinda try to make people feel more comfortable using arch.
 
