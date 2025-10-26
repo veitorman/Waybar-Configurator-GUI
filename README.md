@@ -19,7 +19,8 @@ Early version 0.6b
 new version 1.0a
 
 ---
-
+just in case, please have a copy of your config of waybar because i really don't know if it saves correctly the first time...
+---
 
 ## ✨ Key Features
 
