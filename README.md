@@ -15,7 +15,7 @@ This standalone tool reads your existing Waybar configuration (~/.config/waybar/
 Early version 0.6b
 
 
-<img src="https://github.com/veitorman/Waybar-Configurator-GUI/blob/main/release1.gif" alt="Preview Functions">
+<img src="https://github.com/veitorman/Waybar-Configurator-GUI/blob/main/Release1.gif" alt="Preview Functions">
 new version 1.0a
 
 ---
