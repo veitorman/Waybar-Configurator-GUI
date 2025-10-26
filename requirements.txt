@@ -1,0 +1,3 @@
+json5
+tinycss2
+PyGObject
