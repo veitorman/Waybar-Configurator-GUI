@@ -120,6 +120,8 @@ Any change is safely written back to ~/.config/waybar/.
 
 So i hope this is usefull, im willing to make more of this for hyprland - arch - wayland users because i really like it and i kinda try to make people feel more comfortable using arch.
 
+---
+
 💖 Support
 
 If you find this project useful:
