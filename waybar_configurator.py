@@ -724,7 +724,7 @@ class App(Adw.Application):
         cfg["modules-left"] = left
         cfg["modules-center"] = center
         cfg["modules-right"] = right
-        write_text(CONFIG_JSONC, json5.dumps(cfg, indent=2))
+        write_text(CONFIG_JSONC, json5.dumps(cfg, indent=2, quote_keys=True))
         self.cfg = cfg
         self.cfg_text = read_text(CONFIG_JSONC)
         self.refresh_modules_section()
@@ -1058,7 +1058,7 @@ class App(Adw.Application):
             return "[\n" + (",\n".join(lines) + ("\n" if lines else "")) + "  ]"
 
         cfg = read_jsonc(CONFIG_JSONC)
-        dumped = json5.dumps(cfg, indent=2)
+        dumped = json5.dumps(cfg, indent=2, quote_keys=True)
         left_txt   = collect_zone_text("modules-left")
         center_txt = collect_zone_text("modules-center")
         right_txt  = collect_zone_text("modules-right")
